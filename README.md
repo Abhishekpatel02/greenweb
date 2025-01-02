@@ -4,3 +4,5 @@ This repository contains a clone of the Greenweb website, developed using HTML a
 - Pixel-Perfect Clone: Recreates the visual design of the original Greenweb website.
 - Clean and Organized Code: HTML and CSS written for readability and maintainability.
 - Cross-Browser Compatibility: Works seamlessly on modern browsers.
+
+  This is my first Basic mockup as a web developer trainee at Conative it Solutions private limited company. 
